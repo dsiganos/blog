@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dimitrios Siganos&#39; Blog</title>
+    <link>http://blog.siganos.org/posts/</link>
+    <description>Recent content in Posts on Dimitrios Siganos&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 18 Dec 2023 12:10:05 +0000</lastBuildDate>
+    <atom:link href="http://blog.siganos.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Neural Networks</title>
+      <link>http://blog.siganos.org/posts/why-neural-networks/</link>
+      <pubDate>Mon, 18 Dec 2023 12:10:05 +0000</pubDate>
+      <guid>http://blog.siganos.org/posts/why-neural-networks/</guid>
+      <description>Why neural networks? (an article I wrote back in 1996) This is an article I wrote about neural networks, back in 1996, as part of a university project. The article was lost but I found it on the wayback machine and I am republishing it since its content is still applicable today and the article was very popular in its day.&#xA;For the last ten years Neural networks have attracted a great deal of attention.</description>
+    </item>
+  </channel>
+</rss>
